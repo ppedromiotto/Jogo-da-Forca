@@ -1,4 +1,4 @@
-Jogo da Forca em Python
+#Jogo da Forca em Python
 Este é um jogo simples de forca em Python, onde o jogador tenta adivinhar uma palavra secreta, uma letra de cada vez, antes de cometer seis erros.
 
 Como Jogar
