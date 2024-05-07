@@ -23,5 +23,6 @@ O jogador pode apenas inserir uma única letra de cada vez.
 O jogo fornece feedback sobre cada tentativa do jogador, informando se a letra estava correta ou não.
 
 O jogo termina quando o jogador adivinha corretamente todas as letras da palavra secreta ou comete seis erros.
+
 Ao final do jogo será perguntado se o usuário deseja jogar novamente.
  
